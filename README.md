@@ -13,6 +13,9 @@
 [ansi2html](https://github.com/alexrochas/ansi2html)
 > Script to fetch terminal output and export to an html, [Shell]
 
+[ansible-with-vagrant_sandbox](https://github.com/alexrochas/ansible-with-vagrant_sandbox)
+> The securest way to test your Ansible scripts, []
+
 [aop-annotation-poc](https://github.com/alexrochas/aop-annotation-poc)
 > Exception abstraction using annotations for Java, [Java]
 
@@ -22,8 +25,8 @@
 [attendance_sheet](https://github.com/alexrochas/attendance_sheet)
 > Attendance sheet to be used in classes, [Ruby, HTML, CSS, JavaScript, CoffeeScript]
 
-[awesome](https://github.com/alexrochas/awesome)
-> A curated list of awesome topics, []
+[awesome-repos](https://github.com/alexrochas/awesome-repos)
+> A brief guide to all my repos, []
 
 [build-your-own-radar](https://github.com/alexrochas/build-your-own-radar)
 > A library that generates an interactive radar, inspired by http://thoughtworks.com/radar/, [JavaScript, CSS, HTML, Dockerfile]
@@ -154,11 +157,20 @@
 [ilegra-hoursheet](https://github.com/alexrochas/ilegra-hoursheet)
 > Automatic hour sheet for Ilegra, [Python]
 
+[java8-sam](https://github.com/alexrochas/java8-sam)
+> Minor POC to test aws sam with java8, [Java]
+
 [jcodec](https://github.com/alexrochas/jcodec)
 > Simple and opportunistic POC to decode QRCode, [Java, Groovy]
 
+[jenkins-cli](https://github.com/alexrochas/jenkins-cli)
+> , [Python]
+
 [kafka-centralized_logs](https://github.com/alexrochas/kafka-centralized_logs)
 > POC to study how Kafka can be used to centralize logs, [Java]
+
+[kafka-streams-poc](https://github.com/alexrochas/kafka-streams-poc)
+> Minor POC with Kafka streams, [Java]
 
 [kafka_event_manager](https://github.com/alexrochas/kafka_event_manager)
 > , [Python]
@@ -195,6 +207,9 @@
 
 [node-red-container](https://github.com/alexrochas/node-red-container)
 > , []
+
+[ops-with-vagrant](https://github.com/alexrochas/ops-with-vagrant)
+> How to provision and run an NGINX as a load balancer in Vagrant, [Ruby, Dockerfile]
 
 [package-parameter](https://github.com/alexrochas/package-parameter)
 > , [Java, HTML]
@@ -264,18 +279,3 @@
 
 [validation-api](https://github.com/alexrochas/validation-api)
 > , [Java]
-
-[vim-phpunitqf](https://github.com/alexrochas/vim-phpunitqf)
-> PHPUnit toolkit for Vim, [Python, Vim script]
-
-[wallpaper_cron](https://github.com/alexrochas/wallpaper_cron)
-> , []
-
-[web_frameworks-benchmark](https://github.com/alexrochas/web_frameworks-benchmark)
-> Web frameworks benchmark showdown!, [Scala, Java, Go, Ruby, Crystal, JavaScript, Dockerfile]
-
-[whyeventsourcing](https://github.com/alexrochas/whyeventsourcing)
-> , [Java, Groovy]
-
-[Wiki](https://github.com/alexrochas/Wiki)
-> , [Groovy, HTML, JavaScript]
