@@ -26,7 +26,7 @@
 > Attendance sheet to be used in classes, [Ruby, HTML, CSS, JavaScript, CoffeeScript]
 
 [awesome-repos](https://github.com/alexrochas/awesome-repos)
-> A brief guide to all my repos, []
+> A brief guide to all my repos, [Jupyter Notebook]
 
 [build-your-own-radar](https://github.com/alexrochas/build-your-own-radar)
 > A library that generates an interactive radar, inspired by http://thoughtworks.com/radar/, [JavaScript, CSS, HTML, Dockerfile]
@@ -69,6 +69,9 @@
 
 [cloud-config](https://github.com/alexrochas/cloud-config)
 > , [Groovy, Dockerfile]
+
+[colorized-grep](https://github.com/alexrochas/colorized-grep)
+> Minor tool to colorize terminal output, [Ruby]
 
 [copinha-placar](https://github.com/alexrochas/copinha-placar)
 > , [JavaScript, CSS, HTML]
@@ -170,7 +173,7 @@
 > POC to study how Kafka can be used to centralize logs, [Java]
 
 [kafka-streams-poc](https://github.com/alexrochas/kafka-streams-poc)
-> Minor POC with Kafka streams, [Java]
+> Minor POC with Kafka streams, [Java, Dockerfile]
 
 [kafka_event_manager](https://github.com/alexrochas/kafka_event_manager)
 > , [Python]
@@ -183,6 +186,9 @@
 
 [micronaut-sandbox](https://github.com/alexrochas/micronaut-sandbox)
 > :rocket: :moon: Micronaut studies, [Groovy, Java, Dockerfile]
+
+[minikube-kamel](https://github.com/alexrochas/minikube-kamel)
+> Minor POC with Kamel integrations running on Minikube, [JavaScript]
 
 [monitor-hotplug-handler](https://github.com/alexrochas/monitor-hotplug-handler)
 > Event handler for monitor plug/unplug event, []
@@ -225,6 +231,9 @@
 
 [pranks](https://github.com/alexrochas/pranks)
 > Best way to teach your colleagues to not go out and let the PC unprotected, [Dockerfile, Shell]
+
+[proxy-server](https://github.com/alexrochas/proxy-server)
+> Minor proxy server POC writed in ruby, [Ruby, Dockerfile]
 
 [python-serverless](https://github.com/alexrochas/python-serverless)
 > Minor POC to test AWS Lambda over rest-api, [Python]
@@ -271,11 +280,6 @@
 [swagger-of-swaggers](https://github.com/alexrochas/swagger-of-swaggers)
 > One swagger to rule them all!, [HTML, Java, Dockerfile]
 
-[thoughts](https://github.com/alexrochas/thoughts)
-> A more practical way to record thoughts about projects and files, [Shell]
+## Meta
 
-[tweet2Canvas](https://github.com/alexrochas/tweet2Canvas)
-> Little app to convert a tweet to an image, [JavaScript, HTML, CSS]
-
-[validation-api](https://github.com/alexrochas/validation-api)
-> , [Java]
+Alex Rocha - [about.me](http://about.me/alex.rochas))
